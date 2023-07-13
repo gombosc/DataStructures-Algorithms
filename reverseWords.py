@@ -41,6 +41,4 @@ def reverse_characters(message, left_index, right_index):
         left_index+=1
         right_index-=1
 
-
-
 reverse_words(message)
