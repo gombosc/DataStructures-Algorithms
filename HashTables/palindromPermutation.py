@@ -19,5 +19,4 @@ def palindromPermutation(word):
         print("Word is a Palindrome permutation")
         return True
     
-
 palindromPermutation(word)
